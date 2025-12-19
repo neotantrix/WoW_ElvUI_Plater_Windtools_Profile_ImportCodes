@@ -4,7 +4,8 @@
 <style>
 blockquote {
   /* Set a specific height for the blockquote container */
-  height: 150px; 
+  height: 250px; 
+  width: 500px
   
   /* Add vertical scrollbar when content exceeds the height */
   overflow-y: auto; 
