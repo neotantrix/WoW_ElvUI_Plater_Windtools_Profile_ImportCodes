@@ -28,7 +28,6 @@ p {
 <body>
 
 <h1 style="font-size:120%;">ELVUI / Plater Nameplates / Windtools Profiles</h1>
-<a href="https://i.imgur.com/F3STXmR.jpeg"><b><p style="font-size:110%;">CLICK FOR UI PREVIEW</b></a></p>
 <hr>
 
 <h2>ElvUI Profile</h2>
