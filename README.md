@@ -1,0 +1,1 @@
+YOU WILL NEED ADDONS <a href= "https://www.curseforge.com/wow/addons/plater-nameplates">Plater Nameplates</a>, <a href= "https://www.curseforge.com/wow/addons/elvui-windtools">ElvUI Wintools</a>, <a href= "https://www.curseforge.com/wow/addons/mh-custom-tags-elvui-plugin">mhTags</a> (for text formatting) FOR THESE PROFILES TO WORK
